@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsl(0, 88%, 74%);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
